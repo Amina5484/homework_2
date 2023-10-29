@@ -12,18 +12,7 @@ public class Main{
         college.addStudent(student1);
         college.addTeacher(teacher1);
 //display the system.
-        System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-        System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<AMINA 2ND LITTLE PROJECT>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-        System.out.println("College Name: " + college.getName());
-        System.out.println("Student Name: " + student1.getName());
-        System.out.println("Student ID: " + student1.getId());
-        System.out.println("student's Grades: " + java.util.Arrays.toString(student1.getGrades()));
-        System.out.println("Student Name: " + student2.getName());
-        System.out.println("Student ID: " + student2.getId());
-        System.out.println("student's Grades: " + java.util.Arrays.toString(student2.getGrades()));
-        System.out.println("Teacher Name: " + teacher1.getName());
-        System.out.println("Teacher Subject: " + teacher1.getSubject());
-        System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+
     }
 }
 
